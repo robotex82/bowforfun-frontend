@@ -39,4 +39,13 @@ Locally preview production build:
 npm run preview
 ```
 
+## Testing
+
+Running e2e tests:
+
+```bash
+npm run test:e2e
+```
+
+
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
