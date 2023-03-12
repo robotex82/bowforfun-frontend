@@ -4,6 +4,6 @@ describe('acessing /', function () {
       .navigateTo('http://localhost:3000')
       .waitForElementVisible('h1')
       .assert.visible('h1')
-      .assert.textContains('h1', 'Welcome to Nuxt!');
+      .assert.textContains('h1', 'Home');
   });
 });

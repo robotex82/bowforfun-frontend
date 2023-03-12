@@ -9,6 +9,7 @@
     "test:e2e": "npx nightwatch --config nightwatch.conf.js"
   },
   "devDependencies": {
+    "@nuxtjs/ionic": "^0.8.1",
     "chromedriver": "^110.0.0",
     "nightwatch": "^2.6.17",
     "nuxt": "^3.2.3"
