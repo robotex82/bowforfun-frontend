@@ -2,6 +2,16 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## Environments
+
+### Staging
+
+[https://bowlforfun-frontend-staging.netlify.app/](https://bowlforfun-frontend-staging.netlify.app/)
+
+### Production
+
+[https://bowlforfun-frontend-production.netlify.app/](https://bowlforfun-frontend-production.netlify.app/)
+
 ## Setup
 
 Make sure to install the dependencies:
