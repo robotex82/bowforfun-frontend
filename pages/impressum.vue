@@ -1,10 +1,10 @@
 <template>
-  <default-layout page-header-title="Home">
+  <default-layout page-header-title="Impressum">
     <ion-content>
       <ion-grid>
         <ion-row>
           <ion-col>
-            <h1>Home</h1>
+            <h1>Impressum</h1>
           </ion-col>
         </ion-row>
       </ion-grid>
@@ -15,7 +15,7 @@
 import { useHead } from "@vueuse/head";
 
 useHead({
-  title: () => "Home",
+  title: () => "Impressum",
   bodyAttrs: { class: { dark: true } },
 });
 </script>
